@@ -10,20 +10,22 @@ Tested with node v8.17.0, v9.0.0, v10.15.3 and v12.6.0
 
 > $ npm run watch
 
-## MySQL Database name
+## Config
+
+### Create MySQL database with name:
 
 ```sh
 database_development
 ```
 
-## Local server test
-
-http://localhost:3000/graphql
-
-## .env
+### .env
 
 ```sh
 NODE_ENV=development
 JWT_SECRET=guico
 PORT=4000
 ```
+
+## Local server test
+
+http://localhost:3000/graphql
