@@ -1,5 +1,7 @@
 # Creating a new project with graphql and node.js
 
+Tested with node v8.17.0, v9.0.0, v10.15.3 and v12.6.0
+
 ## To install dependencies
 
 > $ npm i
@@ -8,7 +10,7 @@
 
 > $ npm run watch
 
-## Database name
+## MySQL Database name
 
 ```sh
 database_development
