@@ -48,7 +48,7 @@
     "jsonwebtoken": "8.1.0",
     "lodash": "4.17.12",
     "mysql2": "1.4.2",
-    "sequelize": "4.44.3",
+    "sequelize": "6.3.5",
     "ts-node": "8.1.0"
   }
 }
